@@ -2,6 +2,14 @@
 
 ## Description
 
+> ⚠️ **Disclaimer**
+>
+> This package is a fork of [erikc5000/nest-mongodb](https://github.com/erikc5000/nest-mongodb). All credit for the original work goes to [@erikc5000](https://github.com/erikc5000).
+>
+> I have published this version to npm **only** to make available the recent upgrade to support **TypeScript 5 decorators**, which has not yet been published by the original maintainer.
+>
+> If and when the official package is updated on npm, consider switching back to that version.
+
 This is a MongoDB module for [NestJS](https://nestjs.com/), making it easy to inject the [MongoDB driver](https://www.npmjs.com/package/mongodb) into your project.  It's modeled after the official [Mongoose module](https://github.com/nestjs/mongoose), allowing for asynchronous configuration and such.
 
 ## Installation
